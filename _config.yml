@@ -8,8 +8,8 @@ markdown_ext: "md, markdown"
 permalink: /blog/:year/:month/:day/:title
 
 collections:
-  travels:
-    name: Travels
+  travel:
+    name: Travel
     url: /travel/
     output: true
     permalink: /travel/:title/
