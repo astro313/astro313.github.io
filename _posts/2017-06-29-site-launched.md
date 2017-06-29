@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Daisy Leung, Astronomer, Launches Site"
+title: "Launches Site"
 date: 2017-06-29
 ---
 
