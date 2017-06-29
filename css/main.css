@@ -11,12 +11,12 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    font-size:1em;
 }
 
 a {
     text-decoration: none;
     color: #999;
-    font-size:1em;
 }
 a:hover {
     text-decoration: underline;
@@ -57,7 +57,7 @@ img.rounded {
     width: 35%;
 }
 .post-content {
-    margin-left: 150px
+    margin-left: 250px
 }
 
 /* --- */
