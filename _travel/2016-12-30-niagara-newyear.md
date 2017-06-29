@@ -2,9 +2,6 @@
 layout: travelpost
 title: "Niagara Fireworks"
 description: Wathcing fireworks over Niagara Falls with Sean Goebel near New Year's Eve
-type: photos
-catagory: travel
-location: Niagara Falls
 permlink:
 image: /img/me.jpg
 date: 2017-06-29
