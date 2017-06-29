@@ -11,7 +11,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    font-size:1em;
+    font-size: 200%;
 }
 
 a {
@@ -50,7 +50,6 @@ img.rounded {
 }
 .post-thumb {
     float: left;
-    margin-right: 150px;
 }
 .post-thumb img {
     display: block;
