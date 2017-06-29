@@ -62,10 +62,8 @@ float:left;
 line-height:25px;
 }
 
-.img-circular{
- width: 200px;
- height: auto;
- border-radius: 50%;
+img.rounded {
+  border-radius: 50%;
 }
 
 /* --- */
