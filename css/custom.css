@@ -1,13 +1,4 @@
-body { background-color: #eaeaea;  font-size: 16px;}
-
 h1,h2,h3,h4,h5 { text-align:center; }
-
-h1 {
-  margin: 40px 0 10px 0; 
-  font-size: 36px;
-  font-family: Lucida, serif;
-  font-weight: bold;
-}
 
 h2 {
   text-align:center;
@@ -24,8 +15,6 @@ h2 {
 .padded { padding: 20px; }
 .clear {clear:both;}
 a, a:visited {color: #201da5; text-decoration: none; }
-
-a:hover {color: #1916dd}
 
 .rownav {
   background: #fff;
