@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: travelpost
 title: "Niagara Fireworks"
 description: Wathcing fireworks over Niagara Falls with Sean Goebel near New Year's Eve
 type: photos
