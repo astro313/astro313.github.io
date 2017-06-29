@@ -4,7 +4,7 @@ title: "Niagara Fireworks"
 description: Wathcing fireworks over Niagara Falls with Sean Goebel near New Year's Eve
 permlink:
 location: Niagara Falls
-image: /img/me.jpg
+image: /img/nia.jpg
 date: 2016-12-30
 ---
 
