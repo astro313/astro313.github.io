@@ -16,6 +16,7 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #999;
+    font-size:1em;
 }
 a:hover {
     text-decoration: underline;
@@ -44,7 +45,7 @@ img.rounded {
 }
 
 .post-container {
-    margin: 20px 20px 0 0;
+/*    margin: 20px 20px 0 0; */
     overflow: auto;
 }
 .post-thumb {
@@ -53,7 +54,7 @@ img.rounded {
 }
 .post-thumb img {
     display: block;
-    width: 25%;
+    width: 35%;
 }
 .post-content {
     margin-left: 150px
