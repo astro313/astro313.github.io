@@ -1,4 +1,15 @@
 
 name: Daisy Leung, Astronomer
+author: Daisy Leung
+description: Astronomer
+email: leungtszkuk@gmail.com
 markdown: kramdown
+markdown_ext: "md, markdown"
 permalink: /blog/:year/:month/:day/:title
+
+collections:
+  travels:
+    name: Travels
+    url: /travel/
+    output: true
+    permalink: /travel/:title/
