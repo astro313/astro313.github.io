@@ -44,17 +44,19 @@ img.rounded {
 }
 
 .post-container {
-    margin: 20px 20px 0 0;  
-    overflow: auto
+    margin: 20px 20px 0 0;
+    overflow: auto;
 }
 .post-thumb {
-    float: left
+    float: left;
+    margin-right: 150px;
 }
 .post-thumb img {
-    display: block
+    display: block;
+    width: 70%;
 }
 .post-content {
-    margin-left: 100px
+    margin-left: 150px
 }
 
 /* --- */
@@ -74,7 +76,6 @@ ul.posts li {
 }
 
 .blogthumb {
-
   border: 1px solid #d3d3d3;
   border-radius: 5px;
   padding-bottom: 10px;
