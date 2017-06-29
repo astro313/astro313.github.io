@@ -19,10 +19,10 @@ a {
 a:hover {
     text-decoration: underline;
 }
-<!-- a:visited {
+/* a:visited {
     color: #201da5; 
     text-decoration: none; 
-}-->
+}*/
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
