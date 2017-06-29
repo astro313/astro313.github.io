@@ -10,7 +10,7 @@ my photos, and my journey a bit. This is also why I created this personal websit
 
 	<ul class="posts">
 
-	  {% for post in site.posts %}
+	  {% for post in site.travel %}
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
