@@ -14,7 +14,10 @@ collections:
     output: true
     permalink: /travel/:title/
 
-
 # Disqus post comments
 # (leave blank to disable Disqus)
 disqus_shortname: "astro313"
+
+twitter_username: tkdaisyleung
+github_username: astro313
+facebook_username: leungtszkuk
