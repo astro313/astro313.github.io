@@ -2,8 +2,17 @@
 ---
 layout: default
 ---
+<h1>{{ page.title }}</h1>
+<p class="meta">{{ page.location }} - {{ page.date | date_to_string }}</p>
 
-<h4 style="margin-bottom: 0px;">{{ page.title }}</h4>
-<div style="text-align:center; padding: 0 0 30px 0">{{ page.location }} - {{ page.date | date: "%B %Y"}}</div>
+<div class="post">
+  {{ content }}
+</div>
 
-{{ content }}
+<!-- Post comments -->
+<div class="notecomments">
+  
+  {% include disqus.html %}	 
+  
+</div>
+
