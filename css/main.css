@@ -11,7 +11,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    font-size: 2em;
+    font-size: 20px;
 }
 
 a {
@@ -29,6 +29,12 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
+h2 {
+    font-size: 2em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
@@ -46,17 +52,18 @@ img.rounded {
 
 .post-container {
 /*    margin: 20px 20px 0 0; */
-    overflow: auto;
+    overflow: hidden;
 }
 .post-thumb {
     float: left;
 }
 .post-thumb img {
     display: block;
-    width: 35%;
+    width: 40%;
 }
 .post-content {
-    margin-left: 350px
+    margin-left: 10px;
+    margin-top: 50px
 }
 
 /* --- */

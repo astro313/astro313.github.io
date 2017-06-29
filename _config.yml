@@ -13,7 +13,7 @@ collections:
     name: Travel
     url: /travel/
     output: true
-    permalink: /travel/year/:month/:date/:title/
+    permalink: /travel/year/:month/:day/:title/
 
 # Disqus post comments
 # (leave blank to disable Disqus)
@@ -21,3 +21,5 @@ disqus_shortname: "astro313"
 
 twitter_username: tkdaisyleung
 github_username: astro313
+
+future: true
