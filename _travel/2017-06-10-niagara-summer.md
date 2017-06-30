@@ -27,7 +27,7 @@ Then we took off and drove to Canada. Here's a photo taken on the Rainbow Bridge
 </p>
 
 <p>
-Then we returned to our car. Before we do so, we have to cross the boarder again (glad that we brought our passports). We were being asked a similar set of questions. Given how hot it was (>30 Celcius), I'd rather not pay for expensive parking while having to walk ~4 miles back and forth the parkway to the Horseshoe Fall. So we drove toward that direction and found street parking and pay something reasonable (~$5 CAD per hour) and it was much closer to where we wanted to go. <br>
+Then we returned to our car. Before we do so, we have to cross the border again (glad that we brought our passports). We were being asked a similar set of questions. Given how hot it was (>30 Celcius), I'd rather not pay for expensive parking while having to walk ~4 miles back and forth the parkway to the Horseshoe Fall. So we drove toward that direction and found street parking that cost something reasonable (~$5 CAD per hour) and it was much closer to where we wanted to go. <br>
 <a href="/img/mo1.jpg">
 <img src="/img/mo1.jpg" style="width: 45%; height: 45%" /></a>
 
@@ -38,4 +38,13 @@ Then we returned to our car. Before we do so, we have to cross the boarder again
 <img src="/img/mo3.jpg" style="width: 45%; height: 45%" /></a>
 <br>
 We were gonna spend a night in Toronto, but something happened :( We left Niagara around 7pm and got home by midnight. It was my first time at Niagara Falls in the summer, and it was packed with people, >4x more crowded than in winter.
+</p>
+
+
+<p>
+
+
+
+
+
 </p>
