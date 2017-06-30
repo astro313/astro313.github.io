@@ -4,7 +4,7 @@ title: "Niagara Summer"
 description: Niagara Falls with mother
 permlink:
 location: Niagara Falls
-image: /img/mo8.jpg
+image: /img/mo3.jpg
 date: 2017-06-10
 ---
 
