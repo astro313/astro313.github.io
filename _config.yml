@@ -19,9 +19,13 @@ collections:
 # (leave blank to disable Disqus)
 disqus_shortname: "astro313"
 
+# Social media
 twitter_username: tkdaisyleung
 github_username: astro313
 linkedin_username: tsz-kuk-daisy-leung-4a5415151
+
+# Google Analytics
+google_analytics: UA-128279314-1
 
 future: true
 
