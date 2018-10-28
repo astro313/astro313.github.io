@@ -24,4 +24,18 @@ Exception: Java gateway process exited before sending the driver its port number
 serverteam_1@master:~/data$ 
 ```
 
+Anyway, we outlined what needs to be done/summarized in our final writeup: [Performance and Costly Functions on Server](https://docs.google.com/document/d/11boKGYD5LEStrGUDeVpziuAZKRNJQ4ZNP_Qh6_zT3Gg/edit?usp=sharing)
 
+Basically, up to this point, Linnea and I have investigated 
+- The theory of
+  1. Basics of partitioning in Spark
+  2. Caching/Persisting
+  3. Lazy Evaluation
+- In practice, issues with
+  1. OOM
+    - Overhang
+    - Heartbeat
+    - Py4JJavaError
+  2. RDD actions
+  3. Java issues on server
+  4. (Efficient) join operations
