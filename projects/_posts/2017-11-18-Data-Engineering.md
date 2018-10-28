@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Data Engineering: More Tests on Server"
-date: 2017-11-19
+date: 2017-11-18
 ---
 
 Last week, Linnea and I encountered numerous issues when we ran the ipynb file on the CDS server. 
