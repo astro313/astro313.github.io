@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Data Engineering: Java gateway error on server"
-date: 2017-11-19
+date: 2017-11-21
 ---
 
 [Documented](https://docs.google.com/presentation/d/1HWmflcatAeo_kBhp8V3YGBzyPw34Guzj1mbqDKjBRv8/edit?usp=sharing) an error encountered on CDS server. 
