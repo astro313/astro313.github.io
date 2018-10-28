@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Data Engineering"
-date: 2017-11-12
+date: 2017-10-22
 ---
 
 This is me (2018-10-28), trying to recall what I did in 2017 to explore `pyspark` and `hadoop` with the [Cornell Data Science Team](https://cornelldata.science/). I was invited to join the group as part of the server team. 

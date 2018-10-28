@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Data Engineering"
-date: 2017-11-29
+date: 2017-10-29
 ---
 
 Linnea and I explored stuff about Datanodes and HDFS Balancer.
