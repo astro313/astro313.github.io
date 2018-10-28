@@ -59,7 +59,7 @@ dmin@MacBook-Air:~/Downloads/hadoop-2.8.1$ jps
 
 Time Spent on Issue (in hours): .5 
 ```
-
+---
 ```
 
 Hadoop connection failed
@@ -122,11 +122,9 @@ Screenshot of Spark UI:
 Solution (include links and resources used): 
 run "sbin/start-all.sh" before running "bin/hadoop fs"
 
-
-
 Time Spent on Issue (in hours): .05
 ```
-
+---
 ```
 Pyspark import error
 Category: Hadoop Start
@@ -170,8 +168,6 @@ Exception                                 Traceback (most recent call last)
      97         # In Windows, ensure the Java child processes do not linger after Python has exited.
 
 Exception: Java gateway process exited before sending the driver its port number
-
-
 
 
 Screenshot of Spark UI:
