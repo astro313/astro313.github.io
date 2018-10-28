@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Data Engineering"
+title: "Data Engineering: Joining Cornell Data Science Team"
 date: 2017-10-22
 ---
 
@@ -8,7 +8,7 @@ This is me (2018-10-28), trying to recall what I did in 2017 to explore `pyspark
 
 The goal for this subteam is to create our own CDS server cluster and try to explore how to efficiently store data and perform computation. The vision I had for joining is to ultimately optimize the processing of now Tera-to-Peta byte sizes astronomical data from large sky surveys such as [SDSS](https://www.sdss.org/) and then automate event detection and object classification (e.g., different types of galaxies).  
 
-I was paired with a highly-motivated and talented CS-major undergraduate student, Linnea May, to learn about "Data Engineering", which I am a total stranger of. Our team name is "Final Frontier" :)
+I was paired with a highly-motivated and talented CS-major undergraduate student, Linnea May, to learn about data engineering, which I am a total stranger of. Our team name is "Final Frontier" :-)
 
 Our main task for this week is to mplement spark code:
 - refer to spark code in sample_spark_code.ipynb in https://github.com/CornellDataScience/hadoop-spark/
