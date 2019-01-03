@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Facebook Friend Network"
-date: 2019-03-01
+date: 2019-01-03
 ---
 
 I have been ever more curious about life, human behavior biology and psychology, cognitive science, and sociology, etc. On New Year's Eve, an idea hit me -- I decided to learn more about myself using the immense amount of data I am allowing technology to collect on a daily basis. I was reading a book on network theory, so I decided to look at my own Facebook friend network.
