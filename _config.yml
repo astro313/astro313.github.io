@@ -6,6 +6,7 @@ email: leungtszkuk@gmail.com
 markdown: kramdown
 markdown_ext: "md, markdown"
 permalink: /blog/:year/:month/:day/:title
+url: "https://astro313.github.io"
 
 # generate site.travel
 collections:
