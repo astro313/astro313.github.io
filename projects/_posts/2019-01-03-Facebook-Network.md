@@ -8,8 +8,8 @@ I have been ever more curious about life, human behavior biology and psychology,
 
 Following this [blog](https://ndres.me/post/facebook-graph-network/), I made a plot of my Facebook friend network by scraping the mutual friends among all my FB friends. Since Facebook has removed the API to download my own FB data, the first step is to web-crawl. I used an automate web brower tool (`ChromeDriver`) for that. Mutual friends/connections between friendA and friendB are represented using an edge. So I end up having a list of edges for all my friends and mutual friends. Positions of the nodes are then computed using a force-directed algorithm, which simulates a physics-based transformation of the network such that connected nodes attract and disconnected ones repel (think of a spring). Finally, my friends are grouped into distinct communities (color-coded) using the Louvain Method.
 
-![Plot of my Facebook friend network]({{ site.url }}/projects/assets/myfriends_nolabel.png)
-<img src="{{ site.url }}/projects/assets/myfriends_nolabel.png" alt="Plot of my Facebook friend network" height="42" width="42">
+<!-- ![Plot of my Facebook friend network]({{ site.url }}/projects/assets/myfriends_nolabel.png) -->
+<img src="{{ site.url }}/projects/assets/myfriends_nolabel.png" alt="Plot of my Facebook friend network" width="30">
 
 Interestingly, my FB friend network looks like a "social butterfly"! It seems like I don't have an uneven distribution of friends with extremely dense inter-connetions, which is a good thing because of the importance of weak ties in our daily lives and also because it would imply that my Facebook feeds are likely going to be highly biased to the views of a certain group(s). An other interesting thing is that while I have moved from countries to countries and continents to continents, a small subset of my friends seem to share a similar path as me. E.g., we went to the same high school in Hong Kong, went to the same college in US; we went to the same college pursing the same major, and went to different graduate schools in the same field later, and so on.
 
