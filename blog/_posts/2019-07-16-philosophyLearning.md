@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "25 Things Before 30"
+title: "Learn by Doing"
 date: 2019-07-16
 ---
 
