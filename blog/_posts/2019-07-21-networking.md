@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Netowrking over Dim Sum"
+title: "Networking over Dim Sum"
 date: 2019-07-21
 ---
 
