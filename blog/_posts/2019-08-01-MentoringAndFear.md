@@ -7,7 +7,7 @@ date: 2019-08-01
 ## Growing Interest in NYC
 I've met many great mentors/new friends over the past few months. There's something really interesting about this extremely crowded city (I now live in NYC). People here are generally friendly and they love hearing about people's experiences and sharing their own. I have probably made the most number of friends here in New York since I left college (and note that I don't consider acquaintances as friends). 
 
-I've gotta great advices from senior people even though I don't work with them (i.e., we are not collaborators). They love spending time mentoring students in general!  I have had a lot of interpersonal connections here. This really surprises me because I grew up in a city like NYC (Hong Kong) which even more densely populated; however, we are always minding our own business --nobody would bother to learn about another person as a person nor understand the feeling when you can connect with others in conversations and experiences. 
+I've gotten great advices from senior people even though I don't work with them (i.e., we are not collaborators). They love spending time mentoring students in general!  I have had a lot of interpersonal connections here. This really surprises me because I grew up in a city like NYC (Hong Kong) which even more densely populated; however, we are always minding our own business --nobody would bother to learn about another person as a person nor understand the feeling when you can connect with others in conversations and experiences. 
 
 I think I am beginning to like NYC... It somehow brings together a group of people who are different but similar in some ways, in ways deeper than saying many people are white collars, in ways I don't have a word for it now.
 
