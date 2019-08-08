@@ -59,7 +59,7 @@ img.rounded {
 }
 .post-thumb img {
     display: block;
-    width: 40%;
+    width: 100%;
 }
 .post-content {
     margin-left: 10px;
