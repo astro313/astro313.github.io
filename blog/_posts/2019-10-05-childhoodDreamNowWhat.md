@@ -9,7 +9,7 @@ I was attending a two-day python-oriented workshop in New York City (PyGotham 20
 At times, I wonder how much of my skills are valued by non-scientists outside of academia. Have I been receiving all these years of training in graduate school to acquire the skillsets needed to strive as an academician and only as an academician? But what if I would like to try something outside academia? Are my skills being valued? 
 
 ## Getting honest opionions and improving myself
-I have a very weird habit. I love asking friends and friends I've only made in a few weeks/months what do they think are my strengths and weaknesses. I thank all my friends for pointing out my short-comings, allowing me to become more self-aware of how I can improve. On the other hand, I struggle to give credits to myself whenever they tell me about my strengths. It's quite an unattractive traits to deny honest opinions from others. I fully acknowledge it as one of my flaws. 
+I have a very weird habit. I love asking friends and friends I've only made in a few weeks/months what do they think are my strengths and weaknesses. I thank all my friends for pointing out my short-comings, allowing me to become more self-aware of how I can improve. On the other hand, I struggle to give credits to myself whenever they tell me about my strengths. It's quite an unattractive trait to deny honest opinions from others. I fully acknowledge it as one of my flaws. 
 
 I view some of the strengths my friends find in me as the basic requirements for being a succesful PhD student. It's crucial to be critical, on top of things, responsible, driven, curious, persistent, ingenious, and so on. 
 
