@@ -9,7 +9,7 @@ I have been thinking a lot about how can I apply my skillsets to non-academic se
 
 I think the value in a PhD is that it demonstrates that we are capable of learning complex ideas, conducting rigorous research (elaborate below) independently and collaboratively, pick up skills necessary (e.g., writing, coding, mathematical concepts). Nobody enters a PhD program knowing how to conduct their thesis research nor have all the relevant skills needed to complete that. In fact, if that's the case, either you are a genius (which then you should challenge yourself further) or the project is simply not challenging enough to ensure one can learn and grow.
 
-Looking back, I improved and honed a lot of skills, including paper writing, coding, interpersonal, presentation, proposal writing, time management, project management, mathematical modeling, data analysis, parallel computing, extracting useful information from research literature quickly, etc.
+Looking back, I improved and honed a lot of skills, including paper writing, coding, interpersonal, presentation, proposal writing, time management, project management, mathematical modeling, data analysis, parallel computing, extracting useful information from research literature quickly, etc. I even learned to build multiple websites for different purposes (this page, my [Research](https://www.astro.cornell.edu/~tleung), [wordpress](https://www.astro.cornell.edu/~tleung/wordpress)).
 
 After chatting with an independent data scientist consultant I met at a workshop, I am even more convinced that I don't need to work for a company. As long as I can demonstrate that I can do things and pick up skills, I will always be valued.
 
