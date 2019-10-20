@@ -9,7 +9,7 @@ I have been using Apple's iphone since the first generation. I was using Nokia a
 
 My friends amazed me with the low light/night mode on the Google Pixel phone and Huawei phones, while another recently took some amazing photos of me and a helicopter using the wide angle lens on his Samsung. 
 
-I would argue that I have very high standards for photos. I therefore always bring my DSLR for my photo trips, together with a few other lenses and my tripod. The problem obviosuly is that the weight of my gears adds up quickly. There are times where I don't need to take professional level photos (i.e., capturing huge dynamic range while maintaining good sharpness and noise control), but the camera on my iphone SE is clearly subpar to my standards. 
+I would argue that I have very high standards for photos. I therefore always bring my DSLR for my photo trips, together with a few other lenses and my tripod. The problem obviosuly is that the weight of my gears adds up quickly. There are times where I don't need to take professional level photos (i.e., capturing huge dynamic range while maintaining good sharpness and noise control), but the camera on my iphone SE is clearly subpar for my standards. 
 
 I checked out a bunch of phones at Best Buy. I concluded that I still prefer the UI on iphones over other android phones, especially since I use Macbooks and synchronize all the events on my calender across Apple devices.
 
