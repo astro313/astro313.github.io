@@ -21,8 +21,8 @@ I don't like to be led by the nose. Therefore, I don't chase after new products 
 I think point 4 is pretty self-explanatory. While it is important to keep up with the society as the world evolves, but if the market/world moves too fast, it will hit a recession. I'd like to stay prepared by having the skills to survive without these products. Would we still know how to navigate with (or without) traditional maps (and not google map)? 
 
 ### My Wish List
-However, there are products two products that I would love to have. 
+However, there are two products that I would love to have. 
 
-First, a watch that sends a vibration to remind me ~5-10 min ahead another meeting. This way, I can politely wrap up the current one without abnoxiously checking the clock during a meeting. But I don't want to have the other functions a smartwatch offers. I don't need to get an instant notification when I get a text/an email! I should be the one to decide when I want to read my emails and not the other way. 
+First, a watch that sends a vibration to remind me ~5-10 min before another meeting. This way, I can politely wrap up the current one without abnoxiously checking the clock during a meeting. But I don't want to have the other functions a smartwatch offers. I don't need to get an instant notification when I get a text/an email! I should be the one to decide when I want to read my emails and not the other way. 
 
 Second, I would love a model of the iphone that has the wide angle lens like the iphone 11, but the size of an SE! Until then, I will stick with my iphone SE.
