@@ -18,7 +18,7 @@ I have had some bumpy rides growing up where my family struggled some financial 
 I don't like to be led by the nose. Therefore, I don't chase after new products or latest models. I like to think of ways to counteract the psychological states that companies are trying to target at their customers. (But I'm inevitably biased - I wouldn't say my desire to buy a better camera lens is led by the nose...) I prefer to be among those to create the products and tools that others find useful. 
 
 ### Survival Skills
-I think point 4 is previous self-explanatory. While it is important to keep up with the society as the world evolve, but if the market/world moves too fast, it will hit a recession. I'd like to stay prepared by having the skills to survive without these products. Would we still know how to navigate with (or without) traditional maps (and not google map)? 
+I think point 4 is pretty self-explanatory. While it is important to keep up with the society as the world evolve, but if the market/world moves too fast, it will hit a recession. I'd like to stay prepared by having the skills to survive without these products. Would we still know how to navigate with (or without) traditional maps (and not google map)? 
 
 ### My Wish List
 However, there are products two products that I would love to have. 
