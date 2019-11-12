@@ -30,9 +30,6 @@ google_analytics: UA-128279314-1
 
 future: true
 
-plugins:
-  - jekyll-sitemap
-
 keywords:
   - travel blog
   - photo blog
