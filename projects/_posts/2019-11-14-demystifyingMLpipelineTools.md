@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Tools for Building ML Pipeline"
+title: "Tools for Building ML Pipeline: Docker, travis, GNU make, Configuration file"
 date: 2019-11-14
 ---
 
-## Docker, travis, GNU make, Configuration file
 I am picking up Docker, travis, GNU make, but find myself wondering about the following - how to incoportate all of these together to build a pipeline / how do they complement one another in building a pipeline?
 
 These are my questions for now, which will be answered promptly (and updated here) as I bug some of my friends. 
