@@ -17,7 +17,7 @@ Most of my friends have the same Mac + iphone combo like me, others have the Win
 
 Similarly, once we are accustomed to certain beliefs, definitions (e.g., of beauty), and standards, it is very hard to appreciate others' ___ (opinions, beliefs, preferences, brands, etc). 
 
-From the business angle, it's smart to "take advantage" of this human flaw. From my point of view, I like to (at least try to) be conscious about all the decisions I make.
+From the business angle, it's smart to "take advantage" of this human flaw. From my point of view, I like to (at least try to) be conscious of all the decisions I make.
 
 
 
