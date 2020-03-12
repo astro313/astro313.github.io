@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Impact on Remote Learning/Online Instructions: Reflection and Observation based on Covid-19 Pandemic" 
+title: "Reflection and Observation based on Covid-19 Pandemic" 
 date: 2020-03-12
 ---
 
@@ -15,6 +15,6 @@ I personally have not stock up on any supplies or food, and am a strong believer
 
 I wish to see actions like [this](https://blogs.microsoft.com/on-the-issues/2020/03/09/microsoft-donates-1-million-covid-19-response/) but reaches the lower income class. 
 
-In the articles linked below, there are examples of how wealthy people are preparing for the pandemic, including flying on private jets and stocking up food in their "bunkers" 18 floors below ground...
-- [link1](https://www.nytimes.com/2020/03/05/style/the-rich-are-preparing-for-coronavirus-differently.html)
-- [link2](https://edition.cnn.com/travel/article/coronavirus-private-jets/index.html?fbclid=IwAR1aFEVEd3PvNsn-vywPiLWG09xFpsikaiU7P-lP3xVroT-V3diO8uf03JA)
+In the articles linked below, there are examples of how wealthy people are preparing for the pandemic, including flying on private jets and stocking up food in their "bunkers" 18 floors below ground... 
+[link1](https://www.nytimes.com/2020/03/05/style/the-rich-are-preparing-for-coronavirus-differently.html)
+[link2](https://edition.cnn.com/travel/article/coronavirus-private-jets/index.html?fbclid=IwAR1aFEVEd3PvNsn-vywPiLWG09xFpsikaiU7P-lP3xVroT-V3diO8uf03JA)
