@@ -4,7 +4,7 @@ title: "Webscraping data on Coronavirus"
 date: 2020-03-11
 ---
 
-My (second?) time webscraping. This time I am not scraping [my own facebook data]({{ site.baseurl }}{% link path/to/2019-01-03-Facebook-Network.md %}), instead, I webscrapped some numbers regarding the number of coronavirus from across the world. 
+My (second?) time webscraping. This time I am not scraping [my own facebook data]({{ site.baseurl }}{% link projects/_posts/2019-01-03-Facebook-Network.md %}), instead, I webscrapped some numbers regarding the number of coronavirus from across the world. 
 
 Since the page I webscrapped provides a table with some of these numbers, the code for webscrapping is quite straightforward. On the other hand, I practiced writing codes for data cleaning and formatting unstructured data. In particular, some entries for some rows in the table are missing. 
 
