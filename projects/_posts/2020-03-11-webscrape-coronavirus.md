@@ -9,7 +9,7 @@ My (second?) time webscraping. This time I am not scraping [my own facebook data
 Since the page I webscrapped provides a table with some of these numbers, the code for webscrapping is quite straightforward. On the other hand, I practiced writing codes for data cleaning and formatting unstructured data. In particular, some entries for some rows in the table are missing. 
 
 I use `selenium` and `chromedriver` to do the webscraping. 
-<br><img src="{{ site.url }}/projects/assets/corona_webscrape.png" width="80%">
+<br><img src="{{ site.url }}/projects/assets/corona_webscrape.png" width="100%">
 <br>
 <img src="{{ site.url }}/projects/assets/tab.png" width="100%">
 
@@ -26,4 +26,4 @@ After getting the datafrmae, I save the dataframe based on the time and date. Th
 <br><img src="{{ site.url }}/projects/assets/save.png" width="100%">
 
 Finally, I use `cron` to webscrape every 6 hours by executing the python script. In particular, I added `0 0,6,12,18 * * * /anaconda2/bin/python corona.py` to my `cron` job list.
-<br><img src="{{ site.url }}/projects/assets/saved.png" width="100%">
+<br><br><img src="{{ site.url }}/projects/assets/saved.png" width="80%">
