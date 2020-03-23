@@ -5,7 +5,7 @@ date: 2019-11-13
 ---
 
 Docker vs VM: 
-![](https://miro.medium.com/max/2560/1*gVNbunchCV5wXgnwlT-iGg.jpeg)
+<img src="https://miro.medium.com/max/2560/1*gVNbunchCV5wXgnwlT-iGg.jpeg" width="70%">
 
 # how to run containers from prebuilt, publicly available Docker Image
 `docker-machine env default`
