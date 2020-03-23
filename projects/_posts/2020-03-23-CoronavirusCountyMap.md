@@ -9,7 +9,7 @@ date: 2020-03-23
 I am curious on the time evolution of the confirmed Covid-19 cases in each county across US. Of course, such map is probably posted somewhere on the internet but I'd like to do it for myself as an exercise. By writing my own script, I can generate the map using the latest data wheneven I want to instead of waiting for someone to update their maps, and I can plot with a color scheme or color scale of my choice.
 
 To do so, we will need the latest number on the confirmaed cases in each county. Fortunately, this has been compiled by [USAFacts](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/). We will read this in as a `pandas` DataFrame. To map the number in each county, we will make use of the Federal information processing standard (FIPS) code, which is a unique 5 digit code for each county.
-<img src="{{ site.url }}/projects/assets/FIPS.png" width="100px">
+<img src="{{ site.url }}/projects/assets/FIPS.png" width="100"/>
 
 Some FIPS code begins with leading zeros, thus, we want to keep them: 
 <img src="{{ site.url }}/projects/assets/read_covid_FIPS.png" width="5%" height="3%">
