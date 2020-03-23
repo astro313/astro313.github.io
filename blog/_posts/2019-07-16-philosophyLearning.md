@@ -8,7 +8,7 @@ Whether the internet does more bad than good or vice versa is subjective in my o
 
 I want to revisit a piece of advice I came across on the internet when I started learning coding on my own back in the days, when I first learned how to do research in astrophysics. I think the advice has enabled me to gone further in my career and become a better thinker.
 
-# Learn by doing
+## Learn by doing
 
 Reading is easy to do: fire up your browser, go to the library or sit in a bookshop and 'browse'. You feel like you are learning and it's not even that difficult. The problem is that you aren't practicing the craft and that is where you'll encounter the real problems and learn the real solutions. Book and blogs can help you find the answers but you have to have the problem to solve in the first place.
 
