@@ -6,3 +6,4 @@ date: 2020-03-23
 
 # Colorcoded the number of confirmed cases by county
 blah blah bla
+<img src="{{ site.url }}/projects/assets/US_Mar232020_countyMap.svg" alt="Table" width="10%" height="30%">
