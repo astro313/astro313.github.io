@@ -9,13 +9,13 @@ date: 2020-03-23
 I am curious on the time evolution of the confirmed Covid-19 cases in each county across US. Of course, such map is probably posted somewhere on the internet but I'd like to do it for myself as an exercise. By writing my own script, I can generate the map using the latest data wheneven I want to instead of waiting for someone to update their maps, and I can plot with a color scheme or color scale of my choice.
 
 To do so, we will need the latest number on the confirmaed cases in each county. Fortunately, this has been compiled by [USAFacts](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/). We will read this in as a `pandas` DataFrame. To map the number in each county, we will make use of the Federal information processing standard (FIPS) code, which is a unique 5 digit code for each county.
-<img src="{{ site.url }}/projects/assets/FIPS.png" alt="Table" width="10%" height="10%">
+<img src="{{ site.url }}/projects/assets/FIPS.png" width="1%" height="1%">
 
 Some FIPS code begins with leading zeros, thus, we want to keep them: 
-<img src="{{ site.url }}/projects/assets/read_covid_FIPS.png" alt="Table" width="5%" height="10%">
+<img src="{{ site.url }}/projects/assets/read_covid_FIPS.png" width="5%" height="3%">
 
 Since I'm interested in the most recent data, I want to look into the column that corresponds to (ideally) today. If data for today does not exist, we will loop for the previous day: 
-<img src="{{ site.url }}/projects/assets/read_covid_datetime.png" alt="Table" width="10%" height="10%">
+<img src="{{ site.url }}/projects/assets/read_covid_datetime.png" width="3%" height="5%">
 
 To distribute the number of cases across a map, I downloaded a .svg file that contains the boundaries and the FIPS code for each county. Then, we use `BeautifulSoup` to parse the .svg file as XML structure. 
 <img src="{{ site.url }}/projects/assets/bs4_county_svg.png" alt="Table" width="10%" height="10%">
