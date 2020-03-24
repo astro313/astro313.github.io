@@ -28,5 +28,10 @@ Using the coefficients from the best-fitted exponential function, we can use an 
 <br><img src="{{ site.url }}/projects/assets/inverse_exp.png" width="70%">
 <br><img src="{{ site.url }}/projects/assets/NYS_total_cases.png" width="50%">
 
+Based on this model and these assumptions, namely, the death rate follows seasonal flu and that the delay between an infection and death is 14 days, we find this differences between known cases (blue line) and the actual number of cases (green line) in NYS. Clearly, there's a huge number of unknown cases out there! Despite the uncertainties in the two assumptions I have made, within an order of magnitude, the number of known cases in NYS is at least 30 time less than the actual number! 
+
+
+
+
 
 
