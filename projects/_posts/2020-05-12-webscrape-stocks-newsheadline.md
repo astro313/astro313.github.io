@@ -25,7 +25,7 @@ Since each sector contains a different number of stocks, I extracted the tickers
 <br><img src="{{ site.url }}/projects/assets/save_sector_ticker.png" width="50%">
 
 Subsequently, we read in the pickle file and load in the tickers of a given sector. In this time, I find the healthcare sector to have more "activities" as vaccine and cure for covid-19 are being developed. 
-<br><img src="{{ site.url }}/projects/assets/read_sector_ticker.png" width="70%">
+<br><img src="{{ site.url }}/projects/assets/read_sector_ticker.png" width="50%">
 
 
 ## EDA 
